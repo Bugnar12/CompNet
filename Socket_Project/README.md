@@ -12,5 +12,5 @@
 
 :arrow_right: Afterwards, it returns to the client the number of steps of all sorting methods for each array, thus observing exactly how many steps each algorithm makes in Best Case, Average Case, Worst Case.
 
-:arrow_right: The client does a detailed pretty print with all the processed information.
+:arrow_right: The client does a detailed pretty print with all the processed information and its connection to the server stops.
 
